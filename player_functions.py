@@ -16,4 +16,3 @@ def play_music(music):
 def stop_music():
     sd.stop()
 
-
